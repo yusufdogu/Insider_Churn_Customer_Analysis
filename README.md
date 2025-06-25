@@ -51,7 +51,11 @@ The insights from this analysis can be used to:
 ## 🔗 Explore More
 
 [![Colab](https://img.shields.io/badge/Run%20on-Colab-yellow?logo=googlecolab&style=for-the-badge)](https://colab.research.google.com/drive/1xbik_nBCCjCT8YX_J-GmW7V0IDSUctl8?usp=sharing)
+
 [![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/code/yusufdogu/fork-of-ecorp-dataset-analiz-son-versiyon)  
+
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yusuf-do%C4%9Fu-450942286/)
+
 [![Medium](https://img.shields.io/badge/Read%20More-Medium-black?logo=medium&style=for-the-badge)](https://ydogu159.medium.com/)
+
 ---
