@@ -48,9 +48,13 @@ The insights from this analysis can be used to:
 
 ---
 
-## 📌 Note
+## 🔗 Explore More
 
-This project was carried out using **real data from Insider** and is intended to support ongoing efforts to improve customer success and retention. Data is not publicly shared due to privacy and confidentiality.
+- ▶️ [Run the Project on Google Colab](https://colab.research.google.com/drive/1xbik_nBCCjCT8YX_J-GmW7V0IDSUctl8?usp=sharing)  
+- 📊 [Kaggle Notebook: Final Version of Analysis](https://www.kaggle.com/code/yusufdogu/fork-of-ecorp-dataset-analiz-son-versiyon)  
+- 🧠 [My Kaggle Profile](https://www.kaggle.com/yusufdogu)  
+- 💼 [LinkedIn – Yusuf Doğu](https://www.linkedin.com/in/yusuf-do%C4%9Fu-450942286/)  
+- ✍️ [Medium Blog – Insights & Data Stories](https://ydogu159.medium.com/)
 
 ---
 
